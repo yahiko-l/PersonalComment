@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the DiffuPercom article."
+title: "PersonalComment dataset and DiffuPercom experimental code"
+type: software
+authors:
+  - given-names: Jiamiao
+    family-names: Liu
+  - given-names: Pengsen
+    family-names: Cheng
+  - given-names: Jinqiao
+    family-names: Dai
+  - given-names: Jiayong
+    family-names: Liu
+version: 0.1.0
+date-released: 2026-07-16
+license: Apache-2.0
+repository-code: "https://github.com/yahiko-l/PersonalComment"
+preferred-citation:
+  type: article
+  title: "DiffuPercom: A novel simplex-based diffusion framework for personalized comment generation"
+  authors:
+    - given-names: Jiamiao
+      family-names: Liu
+    - given-names: Pengsen
+      family-names: Cheng
+    - given-names: Jinqiao
+      family-names: Dai
+    - given-names: Jiayong
+      family-names: Liu
+  journal: "Applied Soft Computing"
+  volume: "201"
+  start: "115493"
+  year: 2026
+  doi: "10.1016/j.asoc.2026.115493"
+  url: "https://doi.org/10.1016/j.asoc.2026.115493"

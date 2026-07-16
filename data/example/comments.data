@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "synthetic-1",
+    "content": "这是第一条合成评论。",
+    "sentiment": "正面",
+    "userinfo": {
+      "gender": "f",
+      "age": 30,
+      "location": "其他",
+      "description": "合成用户甲"
+    }
+  },
+  {
+    "_id": "synthetic-2",
+    "content": "这是第二条合成评论。",
+    "sentiment": "负面",
+    "userinfo": {
+      "gender": "m",
+      "age": 40,
+      "location": "海外",
+      "description": "合成用户乙"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+DiffuPercom: A novel simplex-based diffusion framework for personalized
+comment generation
+
+Associated article authors: Jiamiao Liu, Pengsen Cheng, Jinqiao Dai, and
+Jiayong Liu.
+
+This distribution contains code adapted from the Simplex Diffusion Language
+Model project, identified by the original package metadata as:
+https://github.com/allenai/diffusion
+
+The file sdlm/models/roberta/modeling_roberta_modified.py is adapted from
+Hugging Face Transformers 4.27.1. Its original copyright and Apache License 2.0
+header is retained.
+
+Third-party Python packages are dependencies and are not redistributed in this
+source archive. Third-party baseline repositories from the research workspace
+are also not included.
